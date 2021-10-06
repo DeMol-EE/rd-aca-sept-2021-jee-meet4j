@@ -1,0 +1,6 @@
+<server description="Acaddemicts">
+    <featureManager>
+        <feature>webProfile-8.0</feature>
+    </featureManager>
+    <httpEndpoint httpPort="9080" id="defaultHttpEndpoint"/>
+</server>

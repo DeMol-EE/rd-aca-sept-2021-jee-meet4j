@@ -1,0 +1,5 @@
+/bin/
+/nb-configuration.xml
+.idea
+*.iml
+target/
